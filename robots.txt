@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Host: https://orange.koinzz.ru
+Host: https://p.ayronbot.ru
