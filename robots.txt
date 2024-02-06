@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Host: https://p.ayronbot.ru
+Host: https://pixigo.ru
